@@ -45,7 +45,7 @@ O layout do projeto está em anexo com esse desafio. O arquivo `.sketch` (no dir
 
 ### Resultado:
 
-<img src=".github/demo.gif" height="400">
+<img src="github/demo.gif" height="400">
 
 ## 📅 Entrega
 
